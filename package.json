@@ -2,7 +2,7 @@
   "name": "vue-crypto",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Gary Simon <contact@designcourse.com>",
+  "author": "ahmadsolehin <contact@ahmadsolehin.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
